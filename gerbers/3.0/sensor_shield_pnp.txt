@@ -1,0 +1,45 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=sensor_shield
+*Date=23:55:23
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;37.7365;-46.2065;0;Bottom;Via22
+2;;;23.9289;-5.90669;0;Bottom;Via8
+3;;;39.6365;-46.3065;0;Bottom;Via6
+4;;;66.2365;-30.2065;0;Bottom;Via5
+5;;;27.0365;-4.60655;0;Bottom;Via1
+6;;;38.5365;-13.5065;0;Bottom;Via10
+7;;;34.329;-26.6781;0;Bottom;V3.0
+8;;;47.2365;-9.80655;0;Bottom;Via19
+9;;;9.8365;-13.7065;0;Bottom;Via12
+10;;THT;11.3865;-46.1065;90;Bottom;DGS
+11;;;29.9365;-25.2065;0;Bottom;Via18
+12;;THT;60.8365;-30.4065;0;Bottom;RFM95W (Radio)
+13;1k;THT;9.3565;-4.20655;180;Bottom;R2
+14;;THT;35.7365;-35.5065;180;Bottom;RFM95W (Radio) - BACK
+15;;;47.5365;-27.6065;0;Bottom;Via9
+16;;;20.8365;-29.1065;0;Bottom;Via20
+17;;;40.1365;-7.70655;0;Bottom;Via2
+18;;THT;63.5365;-11.6566;0;Bottom;Fan
+19;;THT;52.7902;-12.6602;90;Bottom;R1
+20;;;56.9365;-25.5065;0;Bottom;Via3
+21;;THT;22.2864;-10.1065;90;Bottom;1602A (LCD)
+22;;;21.0365;-17.5065;0;Bottom;Via13
+23;;;23.8365;-39.5065;0;Bottom;Via16
+24;;;19.2024;-27.4676;0;Bottom;Via14
+25;;;23.3365;-25.3065;0;Bottom;Via17
+26;;;17.5365;-37.1065;0;Bottom;Via15
+27;;THT;12.5365;-37.1066;0;Bottom;DS1307 (RTC)
+28;;;41.0365;-15.0065;0;Bottom;Via21
+29;;;63.2365;-18.4065;0;Bottom;Via4
+30;;;21.0365;-25.0065;0;Bottom;Via11
