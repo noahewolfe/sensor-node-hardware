@@ -1,0 +1,69 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=sensor_shield
+*Date=01:01:03
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;58.1365;-35.7066;180;Bottom;RFM95W (Radio) - BACK
+2;;;17.4365;-39.0065;0;Bottom;Via28
+3;;;26.2365;-46.5065;0;Bottom;Via36
+4;;;41.6365;-46.5065;0;Bottom;Via32
+5;;;27.7365;-31.3065;0;Bottom;Via21
+6;;THT;33.2365;-30.8066;0;Bottom;RFM95W (Radio)
+7;;;34.6365;-46.5065;0;Bottom;Via31
+8;;;44.4365;-35.5065;0;Bottom;Via15
+9;;;19.2364;-25.3065;0;Bottom;Via5
+10;;THT;6.58285;-8.5529;-90;Bottom;R1
+11;;;-6.12146;-3.04753;90;Bottom;Ruler1
+12;;THT;11.7365;-20.3065;-90;Bottom;DS1307 (RTC)
+13;;;17.8555;-48.2032;0;Bottom;TXT1
+14;;;14.8159;-48.2032;0;Bottom;TXT1
+15;;THT;11.3865;-46.1066;90;Bottom;DGS
+16;;;22.8528;-46.2315;0;Bottom;Via35
+17;;;22.7365;-35.4065;0;Bottom;Via22
+18;;;19.7633;-9.26761;0;Bottom;TXT1
+19;;;59.0403;-18.5658;0;Bottom;TXT1
+20;;;50.7365;-35.4065;0;Bottom;Via33
+21;;;44.4365;-25.5065;0;Bottom;Via14
+22;;;34.329;-26.6781;0;Bottom;V3.1
+23;;;45.9365;-7.40655;0;Bottom;Via17
+24;1k;THT;59.2165;-16.7065;-180;Bottom;R2
+25;;;26.2365;-42.4065;0;Bottom;Via37
+26;;;34.3365;-16.3066;0;Bottom;Via3
+27;;;14.6365;-40.3065;0;Bottom;Via1
+28;;;19.7365;-44.0065;0;Bottom;Via24
+29;;;66.6017;-14.0886;-90;Bottom;TXT1
+30;;;33.4365;-43.3065;0;Bottom;Via30
+31;;THT;64.0365;-12.0565;0;Bottom;Fan
+32;;;39.0366;-42.5065;0;Bottom;Via2
+33;;;7.6807;-48.2032;0;Bottom;TXT1
+34;;;22.8528;-43.2937;0;Bottom;Via38
+35;;;11.7365;-27.0065;0;Bottom;Via6
+36;;;31.3365;-48.3065;0;Bottom;Via25
+37;;;34.7365;-48.3065;0;Bottom;Via26
+38;;;33.9365;-4.50655;0;Bottom;Via9
+39;;;44.4365;-14.7065;0;Bottom;Via13
+40;;;50.7056;-25.4973;0;Bottom;Via34
+41;;;2.87257;-48.2032;0;Bottom;TXT1
+42;;;55.5365;-7.40655;0;Bottom;Via18
+43;;;36.7365;-7.40655;0;Bottom;Via16
+44;;;19.8365;-48.4065;0;Bottom;Via4
+45;;;27.7365;-36.3065;0;Bottom;Via20
+46;;;66.5774;-10.5475;-90;Bottom;TXT1
+47;;;50.6365;-17.7065;0;Bottom;Via12
+48;;;42.0366;-8.90641;0;Bottom;Via10
+49;;;16.6365;-27.0065;0;Bottom;Via23
+50;;;6.57585;-22.407;0;Bottom;TXT1
+51;;THT;38.4864;-12.0066;90;Bottom;1602A (LCD)
+52;;;27.7115;-42.3332;0;Bottom;Via29
+53;;;46.0222;-8.90641;0;Bottom;Via11
+54;;;62.5134;-7.30536;0;Bottom;Via19
