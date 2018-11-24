@@ -1,0 +1,75 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=sensor_shield
+*Date=00:37:31
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;50.6908;-35.9481;0;Bottom;Via33
+2;;;11.6974;-24.7167;-90;Bottom;TXT1
+3;;;36.6909;-7.94821;0;Bottom;Via16
+4;;THT;33.1909;-31.3481;0;Bottom;RFM95W (Radio)
+5;;;66.5561;-14.63;-90;Bottom;TXT1
+6;;;66.5319;-11.089;-90;Bottom;TXT1
+7;;;27.6908;-31.8481;0;Bottom;Via21
+8;;;34.5909;-47.0481;0;Bottom;Via31
+9;;;50.5909;-18.2482;0;Bottom;Via12
+10;;;6.77235;-24.7943;-90;Bottom;TXT1
+11;;;31.2909;-48.8481;0;Bottom;Via25
+12;;;38.991;-43.0481;0;Bottom;Via2
+13;;;58.9948;-19.1072;0;Bottom;TXT1
+14;;;26.1908;-47.0481;0;Bottom;Via36
+15;;THT;11.3409;-46.6481;90;Bottom;DGS
+16;;;44.391;-26.0481;0;Bottom;Via14
+17;;;36.2975;-41.3421;0;Bottom;TXT1
+18;;THT;6.53738;-9.09436;-90;Bottom;R1
+19;;;2.70686;-42.2339;-90;Bottom;TXT1
+20;;;19.6082;-9.91861;0;Bottom;TXT1
+21;;;19.691;-44.5481;0;Bottom;Via24
+22;;;45.8908;-7.94821;0;Bottom;Via17
+23;;;52.6974;-10.6279;0;Bottom;Via42
+24;;;62.4677;-7.84689;0;Bottom;Via19
+25;;;14.12;-24.7298;-90;Bottom;TXT1
+26;;;17.3908;-39.5481;0;Bottom;Via28
+27;;;44.391;-36.0481;0;Bottom;Via15
+28;;;34.6908;-48.8481;0;Bottom;Via26
+29;;;8.98385;-24.0629;-90;Bottom;TXT1
+30;;;62.6522;-21.5674;0;Bottom;Via45
+31;;;50.66;-26.0388;0;Bottom;Via34
+32;1k;THT;59.1708;-17.2482;180;Bottom;R2
+33;;;27.666;-42.8748;0;Bottom;Via29
+34;;;41.3205;-21.3487;0;Bottom;Via44
+35;;;44.391;-15.2482;0;Bottom;Via13
+36;;;19.1909;-25.8481;0;Bottom;Via5
+37;;THT;38.4408;-12.5481;90;Bottom;1602A (LCD)
+38;;;41.5908;-47.0481;0;Bottom;Via32
+39;;;34.2909;-16.8481;0;Bottom;Via3
+40;;;45.991;-10.7481;0;Bottom;Via41
+41;;;41.991;-9.44794;0;Bottom;Via10
+42;;;57.1825;-4.93944;0;Bottom;Via43
+43;;;33.891;-5.04809;0;Bottom;Via9
+44;;;34.2495;-26.7181;0;Bottom;V3.2
+45;;;45.9766;-9.44794;0;Bottom;Via11
+46;;;30.6909;-10.7481;0;Bottom;Via40
+47;;;33.3909;-43.8481;0;Bottom;Via30
+48;;;20.5354;-18.3949;0;Bottom;Via39
+49;;THT;58.0908;-36.2481;180;Bottom;RFM95W (Radio) - BACK
+50;;;7.76098;-42.8582;-90;Bottom;TXT1
+51;;;55.4908;-7.94821;0;Bottom;Via18
+52;;;27.6908;-36.8481;0;Bottom;Via20
+53;;;14.5909;-40.8481;0;Bottom;Via1
+54;;THT;11.6909;-20.8481;-90;Bottom;DS1307 (RTC)
+55;;;15.2868;-43.4938;-90;Bottom;TXT1
+56;;;37.0157;-38.708;0;Bottom;TXT1
+57;;THT;63.9909;-12.598;0;Bottom;Fan
+58;;;17.5912;-43.6032;-90;Bottom;TXT1
+59;;;26.1908;-42.9481;0;Bottom;Via37
+60;;;2.59505;-49.1512;0;Bottom;TXT1
